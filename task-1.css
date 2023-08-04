@@ -1,0 +1,27 @@
+#jj{
+    max-height: 50vh;
+    max-width: 50vw;
+
+}
+#ss{max-height: 50vh;
+    max-width: 50vw;
+    
+
+}
+.siva{
+    display: flex;
+    flex-direction: row;
+}
+
+p{
+    padding: 10px;
+    margin: 10px;
+}
+@media (max-width:540px){
+        .siva{
+            display: flex;
+            flex-direction: column;
+        }
+    }
+    
+
